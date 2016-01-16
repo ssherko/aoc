@@ -84,7 +84,7 @@ def calculate_distance(path,links):
 
 # Sit back, pour yourself a glass of juice and start watching
 # a show of your choice. After that, throw a dart on a world map,
-# travel to that place, learn the language, have a good time and 
+# travel to that place, learn the language (or how to swim), have a good time and 
 # come back ... It's gonna be a while before this comes up with an
 # answer.
 def solution(f_obj):
